@@ -86,12 +86,13 @@ def check_tiktok(id_tiktok, token):
 
 os.system('clear')
 banner = r'''
-████████╗██████╗ ███████╗
-╚══██╔══╝██╔══██╗██╔════╝
-   ██║   ██║  ██║███████╗
-   ██║   ██║  ██║╚════██║
-   ██║   ██████╔╝███████║
-   ╚═╝   ╚═════╝ ╚══════╝
+tool by Bùi Minh Quốc
+zalo: 0398808450
+fb : Bùi Minh Quốc
+
+
+
+
 '''
 gach  = '========================================='
 option = f'''{gach}{Colors.green}
